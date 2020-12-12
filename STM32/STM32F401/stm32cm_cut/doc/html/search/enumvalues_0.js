@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['acc_5fbase_5fconfiguration_5fpower_5fsave_5fmode_5factive',['ACC_BASE_CONFIGURATION_POWER_SAVE_MODE_ACTIVE',['../group__Base.html#gga9c800362b6bc12c9dc6be595c79001dfa6b3f8e46512b681658e037fac284dec3',1,'acc_base_configuration.h']]],
+  ['acc_5fbase_5fconfiguration_5fpower_5fsave_5fmode_5foff',['ACC_BASE_CONFIGURATION_POWER_SAVE_MODE_OFF',['../group__Base.html#gga9c800362b6bc12c9dc6be595c79001dfad85f6fa9fbaf260c8c03bd44aca647c1',1,'acc_base_configuration.h']]],
+  ['acc_5fbase_5fconfiguration_5fpower_5fsave_5fmode_5fready',['ACC_BASE_CONFIGURATION_POWER_SAVE_MODE_READY',['../group__Base.html#gga9c800362b6bc12c9dc6be595c79001dfa1f2352daedd7bb58a45ca37c1d3d46ea',1,'acc_base_configuration.h']]],
+  ['acc_5fbase_5fconfiguration_5fpower_5fsave_5fmode_5fsleep',['ACC_BASE_CONFIGURATION_POWER_SAVE_MODE_SLEEP',['../group__Base.html#gga9c800362b6bc12c9dc6be595c79001dfac6eb7900ef0f7c7f517aedcaf9259f12',1,'acc_base_configuration.h']]],
+  ['acc_5flog_5flevel_5fdebug',['ACC_LOG_LEVEL_DEBUG',['../group__Log.html#gga84db876801444732d388f225d0738bb0af804954572982b7789f6d47e9c347b93',1,'acc_hal_definitions.h']]],
+  ['acc_5flog_5flevel_5ferror',['ACC_LOG_LEVEL_ERROR',['../group__Log.html#gga84db876801444732d388f225d0738bb0a4d3bfb21ceea033ad27e5713dca4cf38',1,'acc_hal_definitions.h']]],
+  ['acc_5flog_5flevel_5finfo',['ACC_LOG_LEVEL_INFO',['../group__Log.html#gga84db876801444732d388f225d0738bb0a041f0b15b66773dd5ca02e3a5dff5278',1,'acc_hal_definitions.h']]],
+  ['acc_5flog_5flevel_5fverbose',['ACC_LOG_LEVEL_VERBOSE',['../group__Log.html#gga84db876801444732d388f225d0738bb0a3d38353a57c62d4ee3d8553ab4e4cb71',1,'acc_hal_definitions.h']]],
+  ['acc_5flog_5flevel_5fwarning',['ACC_LOG_LEVEL_WARNING',['../group__Log.html#gga84db876801444732d388f225d0738bb0a6d7c13a9dae368a1ccc5d46774631ac7',1,'acc_hal_definitions.h']]],
+  ['acc_5fservice_5fiq_5foutput_5fformat_5ffloat_5fcomplex',['ACC_SERVICE_IQ_OUTPUT_FORMAT_FLOAT_COMPLEX',['../group__IQ.html#ggaa46bd3d1527922cd45d797bd40a4dd4aab54174ffe66b4e97ca0b746488a50c0c',1,'acc_service_iq.h']]],
+  ['acc_5fservice_5fiq_5foutput_5fformat_5fint16_5fcomplex',['ACC_SERVICE_IQ_OUTPUT_FORMAT_INT16_COMPLEX',['../group__IQ.html#ggaa46bd3d1527922cd45d797bd40a4dd4aae220f095267ff8d12c6e5c4c9ada2b41',1,'acc_service_iq.h']]],
+  ['acc_5fservice_5fiq_5fsampling_5fmode_5fa',['ACC_SERVICE_IQ_SAMPLING_MODE_A',['../group__IQ.html#gga3482508e992f329cb07535d03ecf7c8fa9f87a439bcb31bfd61ef362e26e35f1d',1,'acc_service_iq.h']]],
+  ['acc_5fservice_5fiq_5fsampling_5fmode_5fb',['ACC_SERVICE_IQ_SAMPLING_MODE_B',['../group__IQ.html#gga3482508e992f329cb07535d03ecf7c8fa0ed473f6562bb3ae7ad87e8e5afdc512',1,'acc_service_iq.h']]],
+  ['acc_5fservice_5fprofile_5f1',['ACC_SERVICE_PROFILE_1',['../group__Generic.html#gga5357b6d485e62c62ad272fdeec3783a2a9f621c967ef34eedf09d42a5fcadddba',1,'acc_service.h']]],
+  ['acc_5fservice_5fprofile_5f2',['ACC_SERVICE_PROFILE_2',['../group__Generic.html#gga5357b6d485e62c62ad272fdeec3783a2a38990ca8ed18067d25be7ce8c6daf293',1,'acc_service.h']]],
+  ['acc_5fservice_5fprofile_5f3',['ACC_SERVICE_PROFILE_3',['../group__Generic.html#gga5357b6d485e62c62ad272fdeec3783a2a0352c8eb6db7ec3663d860b226c83e4e',1,'acc_service.h']]],
+  ['acc_5fservice_5fprofile_5f4',['ACC_SERVICE_PROFILE_4',['../group__Generic.html#gga5357b6d485e62c62ad272fdeec3783a2a67ac962704eef21dc4f3d2e0cdf67883',1,'acc_service.h']]],
+  ['acc_5fservice_5fprofile_5f5',['ACC_SERVICE_PROFILE_5',['../group__Generic.html#gga5357b6d485e62c62ad272fdeec3783a2ad392913cd2acdb39ec9133a36f1e4d7d',1,'acc_service.h']]],
+  ['acc_5fservice_5fsparse_5fsampling_5fmode_5fa',['ACC_SERVICE_SPARSE_SAMPLING_MODE_A',['../group__Sparse.html#ggac24cfa0fc79bf7dc435a486389984948a1899522d4e06b52ced86746b380c2f33',1,'acc_service_sparse.h']]],
+  ['acc_5fservice_5fsparse_5fsampling_5fmode_5fb',['ACC_SERVICE_SPARSE_SAMPLING_MODE_B',['../group__Sparse.html#ggac24cfa0fc79bf7dc435a486389984948ab43f96531d80397422649e0602679891',1,'acc_service_sparse.h']]]
+];
